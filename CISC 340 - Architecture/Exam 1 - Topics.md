@@ -1,0 +1,38 @@
+- History of Computing and Computers
+- RISC vs CISC
+- Measuring Performance
+    - Cycle, Clock rate, Clock Period, CPI, CPU time, etc
+    - You will want to know how to calculate performance, time, cpi, etc
+- Moore's Law
+- Amdahl's Law
+- MIPS
+    - Registers
+        - Size, number, naming conventions, vs. memory, special registers ($zero, $ra...)
+    - Instructions
+        - Types (ex: r-type vs i-type vs j types)
+            -  how they are stored in memory and their parts
+        - Know all the ones introduced in class
+            - add, addi, sub, subi, mul, lw, sw, and, or, andi, ori, j, beq, bne, stl, li, la, sll, srl,
+        - Psuedo-instructions vs. real MIPS
+        - Labels
+        - syscall
+    - General MIPS abilities you should have
+        - reading and understanding a MIPS program
+        - Work with memory
+            - .data
+                - data types
+                    - .word
+                - arrays, variables
+        - Know how to use jumping  
+            - if statements
+            - loops
+        - Translate Java to MIPS
+        - Rewrite MIPS to be more efficient or use different instruction
+- Data Representation
+    - Hex
+    - Binary
+        - all math
+    - Two's Compliment
+    - You should be able to convert between decimal and any of the above formats
+    - You should know how the number of bits used in the representation changes the value range
+    - Know how to do arithmetic in all forms

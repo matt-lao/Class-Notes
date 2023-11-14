@@ -1,0 +1,71 @@
+## Early Programming
+- 1801 - Joseph Marie Jacquard invest a loom that uses wooden punch cards to automatically weave fabric designs
+	- This was the inspiration for punch cards a century later
+- 1820-1830 - Charles Babbage designed the "Difference Engine" & "Analytical Engine"
+	- Steam driven calculation machines
+	- However, could not be built at the time due to technological limitations
+- 1840 - Ada Lovelace writes first computer program
+	- It was a "description" of how to compute Bernoulli number on the Analytical Engine
+- 1880 - Herman Hollerith invents the punch card
+	- Electromechanical tabulating device
+	- Aided the 1890 US census
+		- Completed ahead of time
+	- Went on to found IBM
+
+## Theory of Modern Computing
+- 1936 - Alan Turing
+	- Turing machine: Theoretical machine that can read and modify symbols on an "infinite" tape according to a table of rules
+	- Turing Complete
+		- A system that can solve all the same problems as Turing machine
+			- Can compute any solvable algorithm
+		- Some languages are considered Turing complete
+- 1945 - ENIAC (Electronic Numerical Integrator and Calculator)
+	- Commonly cited as first programmable all digital computer
+	- Was giant and expensive (30 tons + $400k)
+	- Took a large group of people to operate
+	- Built to calculate ballistics tables
+
+## Hardware Advances
+- 1947 - Bell Labs creates transistors
+	- Replacement for volatile vacuum tubes -- very inefficient since they could break occasionally
+- 1950 - magnetic drums used for memory
+	- Precursor of hard disks
+	- Functioned similar to RAM
+- 1951 - Tape drive used for secondary storage
+- UNIVAC - 1951
+	- Eckert and Mauchly provided the first UNIVAC (Universal Automatic Computer) to the US Census Bureau
+	- Unlike ENIAC, UNIVAC used 
+		- Binary-based architecture
+		- Weighed 8 tons
+		- Used punch card interface
+	- Notably used magnetic drums and tape storage
+- Transistors
+	- 1954 Bell Labs created TRADIC (Transistorized Digital Computer)
+		- First all transistor computer
+		- Much smaller than predecessors
+		- Used fraction of the energy
+	- Opened the gateway for mass production of smaller computers
+- Rise of Personal Computer
+	- 1959 - Introduction of the first integrated circuit
+	- 1959 - IBM 1401
+		- First popularized mass-produced computer
+		- By mid 60s over 10000 systems were installed
+		- Cheap price (rented for $2500/month) and ease of programming made it a success
+
+## Rise of Programming Languages
+- 1940-1950 - "Programming Languages" were machine codes -- Binary instructions that directed computer hardware
+	- Took long time to create and debug code, but there were only a few machines
+- As computers become more prevalent and understandable languages were developed
+	- First was Assembly - Uses symbolic names and mnemonics to represent machine instructions
+	- One step above binary and still machine specific
+- First Compiler
+	- Admiral Grace Hopper
+		- 1952 - created the first compiler A-0 which translated mathematical code into machine code
+		- 1962 - Her team created FLOW-MATIC the first programming to use English words
+			- Precursor to COBOL
+- Language Trends
+	- First computer were very expensive
+		- Cheaper to have programmer enter binary
+	- As computers go cheaper programmers became the dominant expense
+	- To remedy this, languages were developed that were easy to use, easy to learn, and can be used in many different ways
+		- This way more people could learn to program, driving down the cost
