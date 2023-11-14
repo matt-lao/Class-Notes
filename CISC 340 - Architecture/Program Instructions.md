@@ -1,5 +1,5 @@
 
-![[Pasted image 20231113170806.png | 600]]
+![](Images/Pasted%20image%2020231113170806.png)
 
 Register file takes three inputs for a number a register:
 - Read register 1 (five bits)
@@ -11,18 +11,18 @@ The register numbers come from the instructions.
 Registers and their encoded values are in the register file.
 
 ![](Images/Pasted%20image%2020231113171025.png?raw=true)
-![[Pasted image 20231113171207.png]]
+![](Images/Pasted%20image%2020231113171207.png)
 
 The instructions live in memory. A PC register keeps tack of the address of the current instruction.
 
-![[Pasted image 20231113171342.png]]
+![](Images/Pasted%20image%2020231113171342.png)
 - Op1 = bits 25-21
 - Op2 = bits 20-16
 - Data # = bits 15-11
 
 To get the next instruction, a line from the PC register is diverted to an adder that adds 4.
 
-![[Pasted image 20231113171837.png | 600]]
+![](Images/Pasted%20image%2020231113171837.png)
 
 The clock needs to orchestrates many tasks in this process
 - Continuously updates register in PC
