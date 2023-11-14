@@ -10,7 +10,7 @@ The register numbers come from the instructions.
 
 Registers and their encoded values are in the register file.
 
-![[Pasted image 20231113171025.png]]
+![](Images/Pasted image 20231113171025.png)
 ![[Pasted image 20231113171207.png]]
 
 The instructions live in memory. A PC register keeps tack of the address of the current instruction.
