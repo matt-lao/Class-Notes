@@ -1,0 +1,36 @@
+- Audio
+	- Ambient music, makes a sequence of normal shots much more heartfelt/emotional/meaningful
+- Kitchen table POV shot
+	- Repeated through out the movie
+	- From Yolanda's POV of her neighbor across the street
+	- Vingette of the window framing the shot makes it even more immersive
+	- Camera motion to make it feel like its her
+- Teenage movie themes
+	- Exploring abandoned areas/back parts of the city - kinda like Killer of Sheep
+		- Sitting on top of trains
+		- Biking on train tracks
+		- Rooftop shot - signals longing, hope for the future
+	- High school survey video - still relevant today (Tik Tok)
+	- Older/More dominant friends having influence of
+- Lot of close shots in the classroom, hardly even see the rest of the class at time
+- Contrasting shots of audience hearing the audio from her walkman and her starting to dance and then a cut to behind where we barely here it and see her from behind.
+- Double close - shows intimacy
+	- Ethereal shots - montage
+- Many shots of the dress
+- Mari wear he father's pendant 
+	- Taking fatherly role in the family - gender identity conformity
+- Multiple reflective shots
+- Distressed bicycle shot
+
+
+## In-Class
+- Huntington Park
+	- Working Class - Immigrant
+- Relies on style to communicate love/intamicy
+	- Most of it is unspoken and not in the dialogue
+- Love between parents has died off due to them working all day
+- Don Pedro reinforces gender role/conformity
+- White picket fence vs. black picket fence
+	- American ideal vs. reality of poverty
+- Music
+	- 

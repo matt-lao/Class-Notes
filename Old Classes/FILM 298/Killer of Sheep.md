@@ -1,0 +1,75 @@
+- Opening
+	- Father yelling at son about protecting brother
+	- Close up low angle/high angle shots to establish power dynamics between father/son
+	- Slap - abuse
+	- Contrasting music before and after
+		- High/low
+- Children playing in the field next to the train tracks
+	- Low/High angle shot to establish dominant team when fighting
+		- Also use of partial shots of feet/upperbody
+	- Shot from POV of train
+	- Wide shot to show how small children are next to train
+	- Low angle shot to show Stan Jr. large
+		- Makes children by the train look small
+		- Stan Jr. has unique dress
+	- Longer shots
+- Alley scene
+	- Theives steal tv
+	- Older black man witnesses
+		- Only see his head
+	- Music when they start running away
+- Meat factory
+	- Montage sequence of work
+- Back at house
+- Urban wasteyard
+	- Operatic music - what does america mean to me?
+	- Cinematic wide and close shots
+- Back to meat factory
+	- Use of low static noise to create sense of erieness
+	- Shot of animals - reprise of operatic music
+- Porch scene
+	- Difference of dress between the two men and Stan
+- Socializing in the ally 
+	- Socializing happens "behind the scenes"
+	- Boy on beat "jumped" by the girls in the alley
+		- Call him a slur?
+- Stan cashes check
+	- Man before him is denied
+	- Lady at the register is oddly warm to him
+- Getting engine
+	- Separating money to not be gouged
+	- Nephew laying on the floor
+		- Got beaten up, causal violence
+	- Woman kicks nephew in the head
+		- Stan cares for him, seller indifferent
+		- Tells stan he is good looking
+- Long sequence of taking the engine to the car
+	- It falls off the back of the truck
+	- Contrast gives a large feeling of frustration
+	- Left on the side of the road
+- Apartment complex
+	- Kids playing on rooftops
+		- Playing in urban middle places
+		- Shows young boy crying
+	- Stan finds Truman
+		- Truman owes him money
+- Stan and wife dancing
+	- Stan walks away, she cries - deprives of love
+	- She speaks spoken word/poem
+		- "He doesn't seem mine, half-eaten cake"
+
+- Music
+	- Jazzy/Soul
+	- Operatic
+	- Orchestral
+
+## In Class
+- Blaxploitation
+	- Empowering representaiton of black men
+		- Reinforces stereotypes of black masculinity  
+	- KOS explores vulnerable masculinity through Stan
+- Black Spatial Imaginary
+	- Finding value in devalued places
+	- Collectivism
+	- Decolonization what normative citizenship
+	- 

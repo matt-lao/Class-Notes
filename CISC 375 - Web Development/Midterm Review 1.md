@@ -1,0 +1,9 @@
+- Describe two differences between including a JavaScript file in an HTML page using type="application/javascript" vs. type="module".
+	- Naming collisions
+		- Application/Javascript -> variables have global scope
+		- Module -> variables will be contained to their respective scripts/files
+	- File references
+		- Application/Javascript
+			- References will not work?
+		- Module
+			- 

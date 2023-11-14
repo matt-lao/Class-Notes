@@ -1,0 +1,71 @@
+- Opening Jazz soul music
+	- 'Fight the power'
+	- Close up face shots of the lady dancing
+		- Dancing has a phillip glass type feel, very mechanical
+- Radio scene
+	- Long shot w/Motion
+	- Transition uses audio as a bridge
+- Bedroom scene
+	- Guy counting money
+	- Natural camera motion
+	- Close shot when he is waking his wife
+		- Pulls backwards
+- Italian guys opens shop - Sal's pizza
+	- Says that some other guy won't come down here w/o a police escort
+	- Son is hateful
+		- Dad call him out - Sal
+	- The shop is all sorts of locked up
+		- Eirely similar to when business locked up during George Flyod protests
+	- Mookie - black man works for their shop
+	- Mayor comes in to do some work
+		- Pino has an issue with it
+	- Lots of cutting during this convo
+- Sidewalk infromt of apartment
+	- Stereo boom box shown
+	- Muisic starts and angled shot is used
+- Miller High Life
+	- Mayor appears to drink a lot
+	- Mookie's mother yells at him
+	- Shows Asian character
+- Hispanic characters shown
+	- Mother yelling at daughter
+- Three men talking on the streetside
+	- Shot starts super wide
+- Sal serves a lot of black characters
+	- Uses r slur though
+	- No black people on the wall though
+	- Arguement with a black customer
+	- Interesting point on power of the business owner vs power of the consumer
+	- Tells Mookie to "stay black"
+- Smiley - nuerally atypical
+	- Sells custom photos of Malcom and Martin
+- Reoccuring theme of the hot sun
+	- 'Can't stand the heat'
+	- Opening the fire hydrant
+	- People start playing in it
+	- All angles of the movie appear to converge
+	- Radio is pretty stoic
+	- White guy gets rinsed
+	- Police comes through - tone changes
+		- Police are unhelpful to him
+		- Not necessarily what I expected?
+- Mookie encourages vito to stand up to brother
+- Rivalying boomboxes
+	- Latin music vs RnB
+	- Radio wins
+	- Exposes hatefulness in the hispanic men
+- White guy scuffs air jordans
+	- Turns out guys is landlord on the block
+	- Topic of gentrification comes up
+- Slow police shot
+	- Looking at the three guys on the street side (red background)
+	- Both say 'what a waste'
+	- Talking about Korean's opening a shot in their neighborhood
+		- Stereotypes
+		- Says black people are dumb in comparison
+	- Talks about maybe opening a business
+		- Owners in the neighborhood are non black so far
+- Mayor asks kid to get him more beer
+- Mookie shows pino that his favorite celebs are black
+- Each race saying hateful things straight to the camera
+- 

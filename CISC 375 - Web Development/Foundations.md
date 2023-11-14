@@ -1,0 +1,18 @@
+- Grid based
+	- 12 columns (cells)
+		- Going over 12 bumps down an element below
+	- Items span multiple columns
+- Responsive
+	- Adapts based on window size 
+		- Devices have different window sizes
+		- Browsers can be resized
+	- Sizing Classes
+		- Small/Medium/Large "devices" (screens)
+			- Large inherits medium, medium inherits small
+			- Default size is 12 if not specified
+		- Assign multiple of these to account for each case
+			- `Medium - 8` - take up 2/3 of screen on medium sized devices
+			- `Small - 12` - take up 3/3 of screen on small devices
+		- `Auto` can be used to automatically size elements to all fit on a row with other 'auto' elements
+			- Ex. `large-auto`
+			- Good for number of elements that aren't factors of 12 (Ex. 5)

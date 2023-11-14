@@ -1,0 +1,82 @@
+- Grief of black male figure
+	- Grief of loss in the black community in general
+- Dealing with anger because of loss
+- Reliance on western constructs like science and technology to heal deeper systemic wounds
+
+- Opening sequence is a one take - helps emphasize the stress/ stream of conciousness
+- Women warriors all look similar - monlithic identity?
+- Funeral procession
+	- Stark contrast between celebratory elements and mourning elements
+	- Eirie slow mo sequence to
+	- Shuri takes on a lot of responsibility for her brother dying - western notion of individual vs personal responsibility
+- US/Western Imperialism shown through attack on Wakanda facility
+	- But they still are able to defend themselves - great, but realistic?, should we just expect them to be able to protect themselves now that there is on screen representation?
+- Conformity between the warrior sisters
+	- One has a bit of a rebellious personality
+- Queen Ramonda is given a long opportunity to speak, is that realistic? Do international assemblies give fair represenation like this?
+	- Tenessee example
+- Sonic attack
+	- Eriee dark lighting
+	- Paced like a horror sequence
+	- Diagetic/non-diagetic sound transition
+	- Probablamatic depiction of indigenous people as mythical creatures?
+- Progress vs Tradition
+	- New technology vs herb tradition
+- Split shots by the fire
+	- Represents the opposite ideals Shuri and her mother hold
+	- Shuri denies her mother's spirtualism
+	- Shuri can't think about brother too long -> will burn the world
+		- Queen Romonda - There is something that I need to tell you about your brother.
+- Namor reveal
+	- Blames Wakanda (Tchalla) for revealing it to the western world
+- Struggling with new evidence of vibranium in another location
+	- How scientific evidence challenges tradtion/spirituality
+- Riri is somewhat of a masculine character still
+	- Brilliance at young age is not always accepted by the elders - Shuri
+	- Is the masculine representation realistic -> potentially?
+		- Could be discriptive of how black women have to grow up in today's society
+- Grief in Queen Romonda -> causes her to banish one of her most loyal warriors
+- Yucatec Mayan
+- Haitian Black represenation
+- Nakia
+	- Wakandan uprooted
+- Namor seen as a god/spirit
+- Young people seeing beyond simple differences in culture
+	- Willing to give charity to the other side
+- Represents the reality of the harsh mistreatment of indigenous people by European colonizers
+- Authentic representations of Mayan culture?
+- All or nothing thinking by groups/civilizations at risk of oppression
+	- Suggestive of a harsh reality?
+- Namor grieving the loss of his mother?
+	- Causes him to be hyper defensive of his people
+- Problematic that Wakanda and Talokan can't have dipolmatic relations initially? -> Maybe not, still interesting.
+- Is representing a tough reality worth the potential negative representation?
+	- Frustrate the audience by their lack of cooperation
+		- Is the burden on these oppresed groups for their own liberation?
+	- If the characters were more fem presenting would they be taken as seriously? Or would they be sexualized even if their characters were complex and well written?
+- Empowering female leadership while at the same time suggesting that they are now weak since there is no "black panther" (strong male patriarch)?
+	- Shuri does become black panther though
+	- Is it more about the mythical character or about gender?
+- Does the traumatic death of her mother result in her broading her view on spirituality and tradition?
+- Riri backstory
+	- Masculine upbringing
+- Shuri tought by older brother - why couldn't she be self taught? How tech savvy is Tchalla really?
+- Low angle shots in montage -> show women banding together in power
+- Science and techonolgy revive tradition
+- Kilmonger represents rage in response to in justice, but also rejection of tradition
+	- Strength -> Masculine
+	- Represents change, is pointing out necessary change harmful?
+- Shuri is quite changed after her mothers death
+	- She has motivations that are somewhat unexpected -> seen in jabari's face
+	- This appears to be an authentic representation of pain and grief?
+	- We as the audience know Shuri is acting out of rage
+	- Highlights/challenges expectation that minority groups should not be rightfully upset? Is there a point where it is too much?
+- Shared grief among the people of Wakanda?
+- Idealistic ending?
+	- On the one hand it suggests solution, is that on the movie though?
+	- However, is it realistic? Does it end this way usually?
+	- Maybe not idealistic since Queen Romonda dies
+- Reverse sequence - reflective...
+
+- Grief 
+	- How differet character's grief how it is connected to their 

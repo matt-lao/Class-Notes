@@ -1,0 +1,40 @@
+### Representation
+- Mediated reality
+	- Facets of reality that are emphasized or not
+- Undertold, unrepresented, misrepresented
+	- Misrepresentation 
+		- Stereotyping
+	- Unrepresentation 
+		- Not told
+	- Undertold 
+		- Minority character dying off early
+		- Partial story
+- Role of funding
+	- Will the ability to get funding comprimise the film's story?
+- Fluid rather than fixed (narratives)
+	- Advancement of the narratives throughout time
+		- Development of female characters
+		- Heteronormative narratives
+	- Role of the audience
+		- Attracted or opposed to the dominant narratives
+		- Negotiation between them
+			- Action movies can problematic however remain popular
+			- <u>Two realities can be true simultaneously</u>
+	 - Role of influences
+		 - Where has the narrative been $\rightarrow$ Where is it going
+- Definitions
+	- Political
+		- Citizenship
+			- Voting
+			- Housing
+				- Redlining
+			- Education
+	- How you are portrayed
+		- Violence
+
+### Race
+- The production of a idea gets reproduced and repeated
+	- Morality tied to race
+	- Villians having disabilities
+- Dynamic
+- Stereotypes are uninteresting

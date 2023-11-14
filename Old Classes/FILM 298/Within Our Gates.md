@@ -1,0 +1,133 @@
+- Openinging
+	- Black characters are portrayed with high status
+		- Good dress
+		- Fancy and intrecate sets
+		- Permed hair
+	- Police looking for Larry
+	- Alma intercepts telegram for Sylvia
+	- Gambling
+- Shoot out (11:25)
+	- Suspense built with 
+	- Police looking in
+	- Interwoven shots of base scene, the card reflector, and the women sleeping
+	- Red is killed?
+- Sylvia has dream that Larry killed someone
+- Conrad thinks Sylvia is cheating on him
+	- Conrad almost kills her
+		- Domestic violence - negative representation
+- Black school in the south
+	- Positive represenetation of black people in the south
+	- Still grounded in that more black people need education in the south
+	- Money is an issue however
+- 22:00
+	- Sylvia travels back up to north
+	- Met by another black man
+		- He see that she has money and robs him - negative represenation
+	- Suspense built with interwoven shots between Sylvia and Dr. Vivian
+		- He sees robbery, stops theif
+- 25:00 
+	- Sylvia gets ran over trying to save a child - postive rep
+	- Brought to hostpital by Elena Warwick (philanthropist)
+- 27:00
+	- Use of flashback shots - slower fade than the other cuts
+	- Elena offers help!
+		- Elena has a black maid?
+- 30:00
+	- Dr. Vivian daydreams of charming up Sylvia
+		- Use of a daydream like shot
+			- Vingette and slow fade
+- 31:00
+	- Elena consults Geraldine (racist) on how to assist the black race in the south
+		- She gets an old large amount of on screen dialogue
+	- Geraldine suggests that she should give money to preacher Old Ned instead
+		- Selective goodness towards religious blacks
+- Old Ned preaches that white culture is a evil and sinful
+	-  Harmful to equality so it makes sense why Geraldine would support this even though it is "anti-white"
+	- Greedy facial expression when it comes to offering
+	- Is seen to be conversing with white friends
+	- "37:20" - "Blacks ought to know their place"
+	- Seen as a "good" black person in the eyes of the white characters but portrayed as a villian in the eyes of the audience
+	- One of his white "friends" kicks him
+	- He knows what he is doing is wrong, shown to be ashamed
+		- Parallel shot outside of the office he was just in
+- Many forces against advancements of black people
+	- Geraldine
+		- "We know just what they need" - white saviour complex?
+		- Two can be true at the same time (good and bad help)
+	- Old Ned
+- 40:30 - Elena pacing
+	- She has a change of heart?
+- 41:57
+		![[Pasted image 20230207115603.png]]
+	- Christianity as the way to alivate inequality -> really the best path?
+		- Since tainted by Old Ned?
+	- Syliva also daydreams about Dr. Vivian
+		- Using daydreamy shot
+- 43:00 
+	- Dramatic Irony (almost)
+	- School recieves telegram about support right after we learn it might be denied
+- 44:07
+	- Elena comes through
+	- Gives 50,000 instead!
+	- Tells Geraldine to her face that she does not agree
+- 44:50
+	- Sylvia and Dr. Vivian, interracial romance??
+	- Can't happen perhaps?
+- 47:20
+	- Larry uses slur to refer to other black people, calling them dumb as well
+- 49:00
+	- Larry blackmails Sylvia
+	- Larry is working against black advancement
+- 50:00
+	- Use of weather FX in the window, to signify something dark may be happening soon
+		- Storm within Sylvia
+- Larry gets shot
+	- Dr. Vivian helps him
+	- He also meets Alma
+	- Alma repents of her sins
+- Jasper Landry - Sylvia's father
+	- Adopted Sylvia
+	- Oppresive land owner - Phillip Gridlestone
+		- Payments for land, similar to rent today?
+	- Efrem - black servent, "tattletale"
+		- Tells Gridlestone that Sylvia is in school so he can't cheat Jasper anymore
+	- Emil - Syliva's brother
+	- Lot of alcohol in the Gridlestone estate
+	- He confronts Phillip about cheating him
+	- Phillip beats Jasper
+	- Someone accidently kills Gridlestone
+		- Makes it look like Jasper did it
+	- Sylvia has feeling something bad has happened
+	- Efrem rats Jasper out
+		- Really against his own self interest imo -> but white people like and trust him now
+	- Storm the night of they escape
+	- They accidently kill the real killer
+	- Efrem gets lynched anyways
+		- Circular transition
+		- Flash forward to him getting lynched
+	- Emil escapes on horseback
+	- Gridlestone finds out that Sylvia is his daughter from an interracial affair?
+	- Dr Vivian tries to make Sylvia feel patriotic
+		- She doesn't buy it at first
+
+## In-Class
+- Time Period - 1920
+	- Post WWI
+	- Black and White soldiers were treated very differently upon return
+	- Red Summer (1919)
+		- Extremely violent
+		- White supremist backlash
+- Micheaux shows complexity of black life
+	- Several negative black characters
+		- Larry
+		- Old Ned
+		- Efrem
+	- Shows complexity of white characters
+		- Philanthropist - Elena Warwick
+- Miscegenation
+	- Interracial marriage
+	- Made legal in 1967
+- Spatial and Temporal complexity
+	- Dangerous story is one that presents comfort and sense that everything is fine
+- Representation can get you killed
+	- Jasper Landry's misrepresentation gets him killed
