@@ -51,3 +51,7 @@ There are 4 output lines from the `ALU Control`.
 - 10 (2 in binary) by control blob if instruction is an R-type. The `Funct` bits determine the specific ALU operation.
 - 00 (0 in binary) by control blob if instruction is `lw` or `sw`, since those bits make up the offset.
 - 01 (1 in binary) by control blob if instruction is `beq`, since branching needs the `zero` output from the ALU, or in other words, the result of subtracting/checking equal.
+
+# Instruction Types
+
+For an R-type instruction, all operands are Registers
