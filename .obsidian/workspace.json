@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CISC 375 - Web Development/Midterm Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f61fcad418c8313",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CISC 375 - Web Development/jQuery.md",
+                "file": "CISC 340 - Architecture/Assignment 6 - Matt Lao.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "93bb4fc3892c1ab7",
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CISC 375 - Web Development/jQuery.md",
+                "file": "CISC 340 - Architecture/Assignment 6 - Matt Lao.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CISC 375 - Web Development/jQuery.md",
+                "file": "CISC 340 - Architecture/Assignment 6 - Matt Lao.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CISC 375 - Web Development/jQuery.md"
+                "file": "CISC 340 - Architecture/Assignment 6 - Matt Lao.md"
               }
             }
           },
@@ -177,10 +165,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f61fcad418c8313",
+  "active": "312a3288605189ea",
   "lastOpenFiles": [
-    "CISC 375 - Web Development/Client-Side Frameworks.md",
+    "CISC 340 - Architecture/Images/Circuit Diagram Assignment 6 Annotated.jpg",
+    "CISC 340 - Architecture/Images/Pasted image 20231114072407.png",
+    "CISC 340 - Architecture/Challenges When Comparing Computers.md",
+    "CISC 340 - Architecture/Assignment 6 - Matt Lao.md",
+    "CISC 340 - Architecture/Exam 1 - Topics.md",
+    "CISC 340 - Architecture/Program Instructions.md",
+    "CISC 340 - Architecture/History of Computing.md",
+    "CISC 340 - Architecture/Laws of Computer Science.md",
+    "CISC 340 - Architecture/Building Memory.md",
+    "CISC 340 - Architecture/Performance.md",
     "CISC 375 - Web Development/jQuery.md",
+    "CISC 375 - Web Development/Client-Side Frameworks.md",
     "CISC 375 - Web Development/Midterm Review.md",
     "README.md",
     "CISC 340/Assignment 6.md",
@@ -197,7 +195,6 @@
     "CISC 340/Images/Pasted image 20231110102015.png",
     "CISC 340/Images/Pasted image 20231113164029.png",
     "CISC 340/Images/Pasted image 20231113163921.png",
-    "CISC 340/Images/Pasted image 20231113163107.png",
     "STAT 360/3.1 - Path Diagrams for Structural Equations.md",
     "STAT 360/Textbook/2.4 Factor Communality and Variance.pdf",
     "STAT 360/Textbook/2.5 Oblique Factor Rotation.pdf",
@@ -213,17 +210,8 @@
     "STAT 360/Discussion 1.md",
     "STAT 360/Discussion 2.md",
     "STAT 360/A.2 Numerical Optimization in Exploratory Factor Analysis.md",
-    "CISC 375/Midterm Recall.md",
-    "CISC 375/Midterm Review.md",
-    "CISC 375/Foundations.md",
-    "CISC 375/DOM JavaScript.md",
-    "CISC 375/Callback Functions.md",
-    "CISC 375/Web Servers.md",
-    "CISC 375/HTML + CSS.md",
-    "CISC 375/NodeJS.md",
     "STAT 360/Textbook/2.3 Orthogonal Factor Rotation.pdf",
     "STAT 360/Textbook/A.1 Numerical Optimization in Data Analysis.pdf",
-    "STAT 360/2.3 Orthogonal Factor Rotation.md",
     "STAT 360/Textbook/1.2 Exploratory Data Analysis in 1-D.pdf",
     "STAT 360/Textbook/1.1 Data Structures and Dimensionality.pdf"
   ]
