@@ -71,3 +71,10 @@ Control lines for `MemWrite` & `MemRead`.
 # Complete Load/Store Data Path
 
 ![[Pasted image 20231115230808.png]]
+
+# Read v. Write Control Lines
+
+Write control lines always matter when executing instructions that are unrelated to actual write operations.
+
+Read control lines are trivial when executing instructions that are unrelated to actual read operations.
+
