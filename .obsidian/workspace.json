@@ -4,55 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7233cf4f479022c5",
+        "id": "77e7afa58bdbd6dd",
         "type": "tabs",
         "children": [
           {
-            "id": "95d74800428b716a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "be60e2cc55b36546",
+            "id": "f0a8a3864a2d2226",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CISC 340 - Architecture/Data Hazards.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98dce47bb49349bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CISC 340 - Architecture/Pipelining Hardware.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cd399729d840df0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CISC 340 - Architecture/Control Hazards.md",
+                "file": "CISC 375 - Web Development/Final Project Script.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "93bb4fc3892c1ab7",
@@ -127,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CISC 340 - Architecture/Data Hazards.md",
+                "file": "CISC 375 - Web Development/Final Project Script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CISC 340 - Architecture/Data Hazards.md",
+                "file": "CISC 375 - Web Development/Final Project Script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CISC 340 - Architecture/Data Hazards.md"
+                "file": "CISC 375 - Web Development/Final Project Script.md"
               }
             }
           },
@@ -198,53 +164,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be60e2cc55b36546",
+  "active": "f0a8a3864a2d2226",
   "lastOpenFiles": [
-    "CISC 340 - Architecture/Pipelining Hardware.md",
-    "CISC 340 - Architecture/Control Hazards.md",
+    "CISC 375 - Web Development/Final Review.md",
+    "CISC 375 - Web Development/p5.js Notes.md",
+    "CISC 375 - Web Development/p5.js Research.md",
+    "CISC 375 - Web Development/Web Servers.md",
+    "CISC 375 - Web Development/NodeJS.md",
+    "CISC 375 - Web Development/p5 Presentation.md",
+    "CISC 375 - Web Development/jQuery.md",
+    "CISC 375 - Web Development/Midterm Recall.md",
+    "CISC 375 - Web Development/Midterm Review.md",
+    "CISC 375 - Web Development/Midterm Review 1.md",
+    "CISC 375 - Web Development/HTML + CSS.md",
+    "CISC 375 - Web Development/Final Project Script.md",
+    "CISC 340 - Architecture/Assignment 7 - Matt Lao.md",
+    "CISC 340 - Architecture/Assignment 8 - Matt Lao.md",
+    "CISC 340 - Architecture/Branching & Control.md",
+    "CISC 375 - Web Development/Callback Functions.md",
+    "CISC 375 - Web Development/Client-Side Frameworks.md",
+    "CISC 375 - Web Development/DOM JavaScript.md",
+    "CISC 375 - Web Development/Foundations.md",
+    "CISC 375 - Web Development/Frameworks.md",
+    "CISC 340 - Architecture/Direct Mapped Cache.md",
+    "CISC 340 - Architecture/Cache Details.md",
+    "CISC 340 - Architecture/Images/Pasted image 20231206180314.png",
+    "CISC 340 - Architecture/Images/Pasted image 20231206175901.png",
+    "STAT 360 - Comp Stat & Data Analysis/Textbook/Untitled.md",
+    "STAT 360 - Comp Stat & Data Analysis/Textbook/3.5 Fit Indices for Structural Equations.pdf",
+    "CISC 340 - Architecture/Data Hazards.md",
+    "CISC 340 - Architecture/Pipelining.md",
+    "CISC 340 - Architecture/Hazards.md",
+    "CISC 340 - Architecture/Images/Pasted image 20231205150733.png",
+    "CISC 340 - Architecture/Images/Pasted image 20231205150717.png",
+    "CISC 340 - Architecture/Images/Pasted image 20231205145520.png",
+    "CISC 340 - Architecture/Images/Pasted image 20231204232534.png",
+    "STAT 360 - Comp Stat & Data Analysis/Textbook/3.3 Reconstruction of the Covariance Matrix.pdf",
+    "STAT 360 - Comp Stat & Data Analysis/Textbook/3.4 Parameter Estimation and Significance.pdf",
+    "STAT 360 - Comp Stat & Data Analysis/Textbook/3.1 Path Diagrams for Structural Equations.pdf",
+    "STAT 360 - Comp Stat & Data Analysis/Textbook/3.2 Identification and Matrix Representation.pdf",
+    "STAT 360 - Comp Stat & Data Analysis/Textbook/A.3 Numerical Optimization in Structural Equations.pdf",
+    "STAT 360 - Comp Stat & Data Analysis/Textbook/A.3 Numerical Optimization in Structural Equations 1.pdf",
     "CISC 340 - Architecture/Images/Pasted image 20231128074039.png",
     "CISC 340 - Architecture/Images/Pasted image 20231127172758.png",
     "CISC 340 - Architecture/Images/Pasted image 20231127172512.png",
     "CISC 340 - Architecture/Images/Pasted image 20231127171923.png",
-    "CISC 340 - Architecture/Images/Pasted image 20231127171413.png",
-    "CISC 340 - Architecture/Images/Pasted image 20231127171331.png",
-    "CISC 340 - Architecture/Images/Pasted image 20231127171230.png",
-    "CISC 340 - Architecture/Images/Pasted image 20231127171155.png",
-    "CISC 340 - Architecture/Data Hazards.md",
     "Untitled",
-    "CISC 340 - Architecture/Images/Pasted image 20231127171006.png",
-    "CISC 340 - Architecture/Images/Pasted image 20231127170721.png",
     "Reference",
-    "Mixing/Master Bus.md",
-    "Mixing/Drums.md",
-    "Mixing/Bass.md",
-    "Mixing/Guitars.md",
-    "Mixing/Acoustic Guitar.md",
-    "Mixing/Effects.md",
-    "Mixing/FXs.md",
-    "Mixing/Busses.md",
-    "Mixing/Keyboards.md",
-    "Mixing/Vocals.md",
-    "Mixing/Chris Greely Mixing Essentials.md",
     "Mixing/Images",
-    "Mixing",
-    "STAT 360 - Comp Stat & Data Analysis/Textbook/3.2 Identification and Matrix Representation.pdf",
-    "STAT 360 - Comp Stat & Data Analysis/Textbook/3.3 Reconstruction of the Covariance Matrix.pdf",
-    "CISC 340 - Architecture/Pipelining.md",
-    "CISC 340 - Architecture/Hazards.md",
-    "CISC 340 - Architecture/Building Memory.md",
-    "CISC 340 - Architecture/Assignment 6 - Matt Lao.md",
-    "CISC 340 - Architecture/Branching & Control.md",
-    "STAT 360 - Comp Stat & Data Analysis/Textbook/3.1 Path Diagrams for Structural Equations.pdf",
-    "STAT 360 - Comp Stat & Data Analysis/Textbook/2.3 Orthogonal Factor Rotation.pdf",
-    "CISC 340 - Architecture/Load & Store.md",
-    "CISC 340 - Architecture/Challenges When Comparing Computers.md",
-    "CISC 340 - Architecture/Exam 1 - Topics.md",
-    "CISC 340 - Architecture/Program Instructions.md",
-    "CISC 340 - Architecture/History of Computing.md",
-    "CISC 340 - Architecture/Laws of Computer Science.md",
-    "Untitled.canvas",
-    "STAT 360/Textbook/2.4 Factor Communality and Variance.pdf",
-    "STAT 360/Textbook/2.5 Oblique Factor Rotation.pdf"
+    "Untitled.canvas"
   ]
 }
